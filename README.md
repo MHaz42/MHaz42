@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHaz42, I'm a French guy
-- 👀 I’m interested in Artificial Intelligence, C++, Qt, C# etc...
-- 🌱 I’m currently in 3rd year of licence in IT and robotics
+- 👀 I’m interested in C++, Qt, C#, JS/TS etc...
+- 🌱 I’m currently in last year of master ROC
 - 🌍 How to reach me :
 
     [LinkedIn](https://www.linkedin.com/in/mateo-bouchet/)
