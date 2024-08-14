@@ -5,7 +5,7 @@
 
     [LinkedIn](https://www.linkedin.com/in/mateo-bouchet/)
     
-    📬 [Mail](mailto:mateo.bouchet@imerir.com)
+    📬 [Mail](mailto:mateo.bouchet@mhaz42.fr)
 
 <!---
 MHaz42/MHaz42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
